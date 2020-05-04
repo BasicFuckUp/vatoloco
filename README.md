@@ -1,1 +1,4 @@
 # vatoloco
+
+ClearlyNoticed Action
+  uses: dabutvin/chive-action@1.1.0
